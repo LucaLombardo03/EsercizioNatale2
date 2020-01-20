@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:EsercizioNatale2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="744">
-    <Grid Background="#FF88EA12">
+    <Grid Background="#FF88EA12"> 
         <TextBox Name="TxtNum1" HorizontalAlignment="Left" Height="45" Margin="70,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165"/>
         <TextBox Name="TxtNum2" HorizontalAlignment="Left" Height="45" Margin="495,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165"/>
         <ComboBox x:Name="CmbOperazioni" HorizontalAlignment="Left" VerticalAlignment="Top" Width="180" Margin="270,80,0,0" Height="45">
